@@ -1,4 +1,0 @@
-# Logfile created on 2014-02-24 18:02:41 -0500 by logger.rb/44203
-I, [2014-02-24T18:02:41.523274 #14492]  INFO -- : 2:  i18n (0.6.9) from /opt/boxen/rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/i18n-0.6.9.gemspec
-I, [2014-02-24T18:02:41.523429 #14491]  INFO -- : 1:  bundler (1.5.1) from /opt/boxen/rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec
-I, [2014-02-24T18:02:43.450597 #14493]  INFO -- : 3:  faker (1.2.0) from /opt/boxen/rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/faker-1.2.0.gemspec
