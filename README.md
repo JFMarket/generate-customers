@@ -3,6 +3,7 @@ A simple script for generating a CSV file containing fake customer data for test
 
 1. Install Ruby
 2. Install bundler
+
     gem install bundler
 
 ```bash
